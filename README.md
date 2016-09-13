@@ -4,7 +4,7 @@ My journey into the big bad world of web technology starts here!
 
 After 10 years working as an architectural draughtsman and 18 years off in-house ERP software integration development, I find myself lost between software languages and tools.
 
-(NOTE)My goal is to re-group, re-skill to become productive through deploying web based distributed systems.
+**NOTE:** My goal is to re-group, re-skill to become productive through deploying web based distributed systems.
 
 ""We can't solve problems by using the same kind of thinking we used when we created them." --Albert Einstein
 
