@@ -6,9 +6,9 @@ After 10 years working as an architectural draughtsman and 18 years off in-house
 
 **NOTE:** My goal is to re-group, re-skill to become productive through deploying web based distributed systems.
 
-""We can't solve problems by using the same kind of thinking we used when we created them." --Albert Einstein
-
 "It is not the strongest or the most intelligent who will survive but those who can best manage change." --Charles Darwin
+
+"We can't solve problems by using the same kind of thinking we used when we created them." --Albert Einstein
 
 "When you're finished changing, you're finished." --Benjamin Franklin
 
