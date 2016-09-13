@@ -1,5 +1,7 @@
 #The eBear adventure
 
+For read only access to my Phabricator project visit: http://code.ebear.co.za/ user:guest pwd:guestaccount
+
 My journey into the big bad world of web technology starts here!
 
 After 10 years working as an architectural draughtsman and 18 years off in-house ERP software integration development, I find myself lost between software languages and tools.
