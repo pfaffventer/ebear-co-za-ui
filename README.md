@@ -1,6 +1,6 @@
 #The eBear adventure
 
-For read only access to my Phabricator project visit: http://code.ebear.co.za/ user:guest pwd:guestaccount
+**For read only access to my Phabricator project visit: http://code.ebear.co.za/ user:guest pwd:guestaccount**
 
 My journey into the big bad world of web technology starts here!
 
@@ -24,49 +24,6 @@ Venturing into the world of web and mobile technology, I played around with more
 For now I will try to study and understand the design patterns and principals implemented by the developers of my chosen stack. It seems that inversion of control, the separation of concerns and modular service oriented architecture works well to ensure clean, testable code for meaningful, productive development projects.
 
 As far as project management is concerned, it’s only me at this stage; I will however use Phabricator (https://www.phacility.com) to list and schedule tasks, trying to pick up on agile methodologies as I go along.
-
-
-
-#The stack
-
-###Project management
-  - https://www.phacility.com
-
-###Frameworks and libraries
-  - https://spring.io
-  - https://angular.io
-  - https://httpd.apache.org
-  - http://getbootstrap.com
-  - http://fontawesome.io
-
-###Development languages
-  - https://java.com
-  - https://www.typescriptlang.org
-  - https://www.javascript.com
-  - http://www.w3schools.com/html/default.asp
-  - http://www.w3schools.com/css
-
-###Tools
-  - https://git-scm.com/
-  - http://www.eclipse.org
-  - https://nodejs.org
-  - https://code.visualstudio.com
-  - https://developer.chrome.com/devtools
-  - [[https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo?hl=en | Google Secure Shell]]
-  - http://www.putty.org
-  - https://winscp.net/eng/index.php
-
-###Database
-  - https://www.mysql.com
-  - https://www.sqlite.org
-
-###Operating systems
-  - https://www.microsoft.com/en-us/windows
-  - http://www.ubuntu.com
-  - https://www.android.com
-
-  
-
 
 #The plan
 
