@@ -2,10 +2,10 @@
 
 My journey into the big bad world of web technology starts here!
 
-After 10 years working as an architectural draughtsman and 18 years off in-house ERP software integration development, I find myself lost between software languages and tools.
+After 10 years working as an architectural draughtsman in the building industry and 18 years off in-house ERP software integration development, I find myself lost between software languages and tools.
 
 ###NOTE:
-My goal is to re-group, re-skill, become productive through deploying eloquent web based distributed systems using proven development processes and design patterns.
+I often ponder the figure of speech ‘A jack of all trades is a master of none’, my goal is therefore to re-group, retain existing skills like Java for general purpose server side programming, research the advantages of a modern front-end framework like Angular and compile a development stack which will enable me to productively develop and deploy distributed software solutions, focusing on business process automation and integration.
 
 - "It is not the strongest or the most intelligent who will survive but those who can best manage change." --Charles Darwin
 
