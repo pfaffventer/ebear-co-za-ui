@@ -7,6 +7,8 @@ After 10 years working as an architectural draughtsman in the building industry 
 ###NOTE:
 I often ponder the figure of speech ‘A jack of all trades is a master of none’, my goal is therefore to re-group, retain existing skills like Java for general purpose server side programming, research the advantages of a modern front-end framework like Angular and compile a development stack which will enable me to productively develop and deploy distributed software solutions, focusing on business process automation and integration.
 
+- "In real life, strategy is actually very straightforward. You pick a general direction and implement like hell." --Jack Welch
+
 - "It is not the strongest or the most intelligent who will survive but those who can best manage change." --Charles Darwin
 
 - "We can't solve problems by using the same kind of thinking we used when we created them." --Albert Einstein
